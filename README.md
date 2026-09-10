@@ -14,14 +14,14 @@ Estudiante de **Ingeniería en Ciencia de Datos** en la Universidad Veracruzana.
 
 ## Mis Proyectos Destacados
 
-1. **[Análisis Experimental de Calidad de Hot Cakes](#)**
-   - *Área:* Diseño de Experimentos y Análisis Estadístico en R.
-   - *Descripción:* Evaluación del impacto de la variación de Harina y Leche sobre la esponjosidad y calidad organoléptica mediante modelos RSM.
+1. **[Análisis Experimental de Calidad de Hot Cakes](https://github.com/alet-jamil/analisis-hotcakes-rsm)**
+   - *Área:* Diseño de Experimentos y Análisis Estadístico en R[cite: 1].
+   - *Descripción:* Evaluación del impacto de la variación de Harina y Leche sobre la esponjosidad y calidad organoléptica mediante modelos RSM[cite: 1].
 
-2. **[Historia y Evolución de las Bases de Datos](#)**
-   - *Área:* Arquitectura y Gestión de Datos.
-   - *Descripción:* Reporte técnico e infografía sobre la transición de datos estructurados (SQL) a no estructurados y vectoriales para IA.
+2. **[Historia y Evolución de las Bases de Datos](https://github.com/alet-jamil/evolucion-bases-de-datos)**
+   - *Área:* Arquitectura y Gestión de Datos[cite: 2].
+   - *Descripción:* Reporte técnico e infografía sobre la transición de datos estructurados (SQL) a no estructurados y vectoriales para IA[cite: 2].
 
-3. **[Compendio Práctico de Diseño de Experimentos](#)**
-   - *Área:* Estadística Inferencial Avanzada.
-   - *Descripción:* Solución computacional en R para diseños DCA, factoriales fraccionados y ANCOVA.
+3. **[Compendio Práctico de Diseño de Experimentos](https://github.com/alet-jamil/diseno-experimentos-r)**
+   - *Área:* Estadística Inferencial Avanzada[cite: 3].
+   - *Descripción:* Solución computacional en R para diseños DCA, factoriales fraccionados y ANCOVA[cite: 3].
