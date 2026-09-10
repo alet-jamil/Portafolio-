@@ -22,6 +22,6 @@ Estudiante de **Ingeniería en Ciencia de Datos** en la Universidad Veracruzana.
    - *Área:* Arquitectura y Gestión de Datos[cite: 2].
    - *Descripción:* Reporte técnico e infografía sobre la transición de datos estructurados (SQL) a no estructurados y vectoriales para IA[cite: 2].
 
-3. **[Compendio Práctico de Diseño de Experimentos](https://github.com/alet-jamil/diseno-experimentos-r)**
+3. **[Compendio Práctico de Diseño de Experimentos](https://github.com/alet-jamil/experimental-design-anova-ancova)**
    - *Área:* Estadística Inferencial Avanzada[cite: 3].
    - *Descripción:* Solución computacional en R para diseños DCA, factoriales fraccionados y ANCOVA[cite: 3].
