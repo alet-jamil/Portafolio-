@@ -14,7 +14,7 @@ Estudiante de **Ingeniería en Ciencia de Datos** en la Universidad Veracruzana.
 
 ## Mis Proyectos Destacados
 
-1. **[Análisis Experimental de Calidad de Hot Cakes](https://github.com/alet-jamil/analisis-hotcakes-rsm)**
+1. **[Análisis Experimental de Calidad de Hot Cakes](https://github.com/alet-jamil/rsm-hotcakes-quality-analysis)**
    - *Área:* Diseño de Experimentos y Análisis Estadístico en R[cite: 1].
    - *Descripción:* Evaluación del impacto de la variación de Harina y Leche sobre la esponjosidad y calidad organoléptica mediante modelos RSM[cite: 1].
 
