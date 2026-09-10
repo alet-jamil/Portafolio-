@@ -1,6 +1,6 @@
 # Soy Alet Jamil Altamirano Torres
 
-Estudiante de **Ingeniería en Ciencia de Datos** en la Universidad Veracruzana. Interesado por el análisis exploratorio de datos, diseño y análisis de experimentos, y la estructuración de sistemas de bases de datos.
+Estudiante de Ingeniería en Ciencia de Datos en la Universidad Veracruzana. Enfocado en el análisis exploratorio de datos, diseño y procesamiento de modelos experimentales en R, Python e implementación de arquitecturas de bases de datos relacionales y no relacionales.
 
 ---
 
