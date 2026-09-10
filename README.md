@@ -18,7 +18,7 @@ Estudiante de **Ingeniería en Ciencia de Datos** en la Universidad Veracruzana.
    - *Área:* Diseño de Experimentos y Análisis Estadístico en R[cite: 1].
    - *Descripción:* Evaluación del impacto de la variación de Harina y Leche sobre la esponjosidad y calidad organoléptica mediante modelos RSM[cite: 1].
 
-2. **[Historia y Evolución de las Bases de Datos](https://github.com/alet-jamil/evolucion-bases-de-datos)**
+2. **[Historia y Evolución de las Bases de Datos](https://github.com/alet-jamil/database-evolution-and-types)**
    - *Área:* Arquitectura y Gestión de Datos[cite: 2].
    - *Descripción:* Reporte técnico e infografía sobre la transición de datos estructurados (SQL) a no estructurados y vectoriales para IA[cite: 2].
 
